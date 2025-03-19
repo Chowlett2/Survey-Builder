@@ -1,5 +1,7 @@
+setuptools>=59.5.0
+rich>=10.14.0
 distutils
-﻿openai
+openai==1.25.1
 numpy==1.24.0
 pandas==1.5.3
 streamlit==1.40.1
