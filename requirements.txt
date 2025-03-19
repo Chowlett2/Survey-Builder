@@ -1,4 +1,5 @@
 ﻿openai==1.25.1
-numpy==1.23.5
+distutils
+numpy==1.24.0
 pandas==1.5.3
 streamlit==1.40.1
