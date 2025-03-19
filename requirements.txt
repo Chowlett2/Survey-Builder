@@ -3,4 +3,5 @@ wheel>=0.36.0
 openai==1.25.1
 numpy==1.23.2
 pandas==1.5.3
-streamlit==1.40.1
+streamlit
+rich>=10.14.0
